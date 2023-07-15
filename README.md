@@ -14,8 +14,8 @@
         <img src="./assets/icon.png" style="width:200px;" alt="Logo"/>
     </p>
     <div class="text" align="center">
-        <h1>Roblox-Account-Gen</h>
-        <h3>A working roblox account generator (state 11.30.2021) it doesnt bypass the capcha stuff cuz these didnt showed up in<br>
+        <h1>Type Soul Alt Gen</h>
+        <h3>A working roblox account generator (state 15.07.2023) it doesnt bypass the capcha stuff cuz these didnt showed up in<br>
             my test runs
             i have no clue why i made this just had the idea out of no where<br>
             To be honest i have no clue about the captcha its probably FunCaptcha but i have no clue how they make it cuz sometimes it will be shown and sometimes it doesnt.<br>
@@ -27,11 +27,11 @@
     </div>
     <div class="links" align="center">
         <h3>
-            <a href="https://github.com/TerrificTable/Roblox-Account-Gen/blob/main/Changelog.txt">Changelog</a>
+            <a href="https://github.com/RealTaliban/freemoneyglitch/blob/main/Changelog.txt">Changelog</a>
             ·
-            <a href="https://github.com/TerrificTable/Roblox-Account-Gen/issues">Report Bug</a>
+            <a href="https://github.com/RealTaliban/freemoneyglitch/issues">Report Bug</a>
             ·
-            <a href="https://github.com/TerrificTable/Roblox-Account-Gen/issues">Request Feature</a>
+            <a href="https://github.com/RealTaliban/freemoneyglitch/issues">Request Feature</a>
     </div>
   </h3>
 </div>
