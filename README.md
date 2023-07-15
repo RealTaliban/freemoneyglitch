@@ -37,14 +37,7 @@
 </div>
 
 <div align="center">
-    <div class="Text" align="center">
-        <h1>Installation</h>
-        <h3>git clone the repo<br>
-        install all requirements (run.bat installs everything)<br>
-        <pre>pip install colorama requests wget selenium</pre>
-    </div>
-</div>
-
+    <div class="Text" align="center"
 <div align="center">
     <div class="Text" align="center">
         <h1>Features</h>
